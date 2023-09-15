@@ -1,3 +1,2 @@
-a=1
-b=2
-print(a+b)
+for(i=10;i<50;i++):
+print(i)
