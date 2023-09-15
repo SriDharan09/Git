@@ -1,2 +1,3 @@
-for(i=10;i<50;i++):
-print(i)
+
+for i in range(50):
+ print(i)
